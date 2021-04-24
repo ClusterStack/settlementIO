@@ -1,10 +1,8 @@
 # settlementIO
 Creating and trustful judgment system
 
-As social media grow, the content inserted on that surpass millions of billions of data, and unfortunately the review of 
-their contents are debatable, even the companies holding the rules of the content review.
-We can see a lot of users complaining that their content were demonetized, deleted or their account blocked on various 
-social medias. At the same time, news websites, biogs and others websites which have commentary section have a hard time 
+As descentralized world grows, we see a growth on scams and roberry being leverage by ICO's and obnotious lack of certification of the new networks and criptocurrencies provides as a security to it's donors and owners, we lack trust , but not trust by the state, but trust by the network.
+We can see cases of adopters of criptos complaining that their were scamed,and lost all their money , because they went to a hype of some cripto, and at the end were a scam.. At the same time, news websites, biogs and others websites which have commentary section have a hard time 
 to review and block texts that have hate speech, unadvised/misleading context, etc. The system is flawed, and the 
 ecosystem of the growing internet can't hold old ways to solve a dispute.
 When we expand this vision, we can see that not only social media, but any system that rely on dispute decisions based 
