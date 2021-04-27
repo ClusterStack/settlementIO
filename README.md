@@ -1,45 +1,45 @@
 # settlementIO
 Creating and trustful judgment system
 
-As descentralized world grows, we see a growth on scams and roberry being leverage by ICO's and obnotious lack of certification of the new networks and criptocurrencies provides as a security to it's donors and owners, we lack trust , but not trust by the state, but trust by the network.
-We can see cases of adopters of criptos complaining that their were scamed,and lost all their money , because they went to a hype of some cripto, and at the end were a scam.. At the same time, news websites, biogs and others websites which have commentary section have a hard time 
-to review and block texts that have hate speech, unadvised/misleading context, etc. The system is flawed, and the 
-ecosystem of the growing internet can't hold old ways to solve a dispute.
-When we expand this vision, we can see that not only social media, but any system that rely on dispute decisions based 
-on a certain rules , for example any judgment system, not only the problem with the decisions made but the time consumed 
-to have it decisions and the acceptance or not of the person to be under certain rules. 
+As decentralized world grows, we see a growth on scams and robbery being leverage by ICO's and obnoxious lack of certification of the new networks and cryptocurrencies provides as a security to it's donors and owners, we lack trust , but not trust by the state, but trust by the network.
+We can see cases of adopters of cryptos complaining that their were scammed,and lost all their money , because they went to a hype of some crypto, and at the end were a scam.
+The decentralized world yet didn't came out with a system that uses decentralization to resolve the disputes among Institutions, networks and users, making this ecosystem tied with old and traditional methods , the growing decentralization will need new ways to solve a dispute.
+When we expand this vision, we can see that not only social media, but any system that rely on dispute decisions based  on a certain rules , for example any judgment system, not only the problem with the decisions made but the time consumed to have it decisions and the acceptance or not of the person to be under certain rules.
 
-When I started to write this white paper, my main goal was to create a distributed approach that could help companies to 
-expand their review process without having the cost to hire more thousand of workers to review a exponential amount of data, 
-where in a future will be almost impossible to them to review every content reported.
+When I started to write this white paper, my main goal was to create a distributed approach that could help companies to expand their review process without having the cost to hire more thousand of workers to review a exponential amount of data, where in a future will be almost impossible to them to review every content reported.
 
-But , seeing that I could expand this to another areas, I realize this method of consensus I was trying to achieve was 
-creating a new and private judgment system.
+But , seeing that I could expand this to another areas, I realize this method of consensus I was trying to achieve was creating a new and private way to create a insurance, notary and judgment system , all in one.
 
-So, in order to take content review, games, and even the Justice to a new level , a new approach for this issue needs 
-to be approached.
+So, in order to take decentralized disputes to a new level , a new approach for this issue needs to be approached.
 
 ## Goal
 
-The goal of settlementIO it's to create a DAO(Decentralized Autonomous Organization) using a Level 2 settlement algorithm described on this paper , being able to create a Concurrency based on smart contracts where the 
-dispute will be issued, reviewed and the result recorded , using digital signature, third party reviewers 
-and law abide owners. 
+The goal of settlementIO it's to create a DAO(Decentralized Autonomous Organization) using a Level 2 settlement algorithm described on this paper , being able to create a Concurrency based on smart contracts where a dispute will be issued, reviewed and the result recorded , using digital signature, third party reviewers and law abide owners.
 To achieve this Goal , the  Level 2 settlement algorithm that contentIO will use it's called `Punitive Proof-of-Adequacy`
 
 ## 1. Punitive Proof-of-Adequacy
 
-The punitive Proof-of-Adequacy is a type of  "Layer 2" settlement algorithm protocol that operates on top of a 
-blockchain-based smart contract network that aims to use a distributed consensus to achieve a result on a **settlement** 
-dispute. In PoA protocol there is an earlier level of consensus, where the peers who hold the PoA act creating a network channel ( a Pool ) ,
-assigning an odd _n_ P2P curators([Reviewers](#33-Reviewer)) connected to the network, giving them access on a **settlement** dispute via various combinations of 
-random selection of [Reputations](#Reputation), thus generating a smart contract of the result of the dispute , using
-the fees to be shared among peers curators and the creator, known as [Witness](#Witness), of the next block. 
+The punitive Proof-of-Adequacy is a type of  "Layer 2" settlement algorithm protocol that operates on top of a blockchain-based smart contract network that aims to use a distributed consensus to achieve a result on a **settlement** dispute. THe PoA protocol is an earlier level of consensus, where the peers connected to the network can act creating a network channel ( a Pool ) , assigning an odd _n_ P2P curators([Reviewers](#33-Reviewer)) connected to the network, giving them access on a **settlement** dispute via a combination of random selection of [Reputations](#Reputation), thus generating a smart contract of the result of the dispute , using the fees to be shared among peers curators and the creator, known as [Witness](#Witness), of the next block.
 
+In able to record on a blockchain, PoA will use a [Witness](#Witness) , a node to index the results on a smart contract-based network, as ETH being the chosen platform for the testnet.
 
+### 1.0 Pre dispute: the institution assignments
 
+As tough before, disputes could be created by a peer or institution against any peer and/or institutions.
 
-In able to record on a blockchain, PoA have little to none participation, and  The [Witness](#Witness) can be any Index
-smart contract-based network.
+But to generate smart contracts and automatically enforce them was a flaw on the `V1.0` of this white paper.
+
+On the proposal of `V1.1` settlementIO will hold dispute only by institutions assigned to the network
+
+#### 1.0.1 How will the institutions connect with SettlementIO network
+
+SettlementIO will provide a set of Apis where institutions and network will be able to connect themselves to the SettlementIO network.
+
+Networks and DAO or other institutions can connect with ContentIO adding a document known as `Dispute terms` , highlighting the terms of agreement with them with any future contract this institution might sign. The institutions will pay a fee to be put on a `dispute pool`.
+
+The `dispute pool` is a hodl wallet where can be used when a result of a dispute  enforces the institution to pay reparations to the complaint.
+
+ContentIO issue a signed document, approving signed institution to Content network.
 
 ### 1.1 Process
 
