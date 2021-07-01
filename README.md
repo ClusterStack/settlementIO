@@ -1,5 +1,5 @@
 # settlementIO - 1.1
-Creating and trustful judgment system
+Creating a trustful descentralized enviroment
 
 As decentralized world grows, we see a growth on scams and robbery being leverage by ICO's and obnoxious lack of certification of the new networks and cryptocurrencies provides as a security to it's donors and owners, we lack trust , but not trust by the state, but trust by the network.
 We can see cases of adopters of cryptos complaining that their were scammed, and lost all their money , because they went to a hype of some crypto, and at the end were a scam.
