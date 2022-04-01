@@ -9,7 +9,7 @@ So, in order to bring settlement disputes to a decentralized world , a new appro
 
 ## Goal
 
-The goal of settlementIO it's to create a DAO(Decentralized Autonomous Organization) using a settlement algorithm described on this paper , where a certificate/insurance can be issued by a institution to ensure disputes to be resolved on a distributed level, using smart contracts where a dispute can be issued, reviewed and the result recorded , using digital signature, third party reviewers and law abide owners.
+The goal of settlementIO it's to create a DAO(Decentralized Autonomous Organization) using a settlement algorithm described on this paper , where a certificate/insurance can be issued by a institution to ensure disputes to be resolved on a distributed level, using smart contracts where a dispute can be issued, reviewed and the result recorded , using `digital signature`, `third party reviewers` and `law abide owners`.
 To achieve this Goal , the  settlement algorithm that contentIO will use it's called `Punitive Proof-of-Adequacy`.
 
 ## 1. Punitive Proof-of-Adequacy
